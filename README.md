@@ -1,2 +1,1 @@
-# isMomentFormat-NodeJs
-NodeJs ile girilen degerin moment formatinda olup olmadigini kontrol eder.
+A lightweight utility developed with Node.js that validates whether a given input string matches a specific Moment.js date-time format. This project demonstrates practical usage of date manipulation libraries and string validation logic in a backend environment.
